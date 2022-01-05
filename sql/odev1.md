@@ -1,7 +1,7 @@
 # Ödev-1
 
-1.```sql
-SELECT * FROM film;
+```sql
+1.SELECT * FROM film;
 
 2.
 SELECT * FROM film
