@@ -1,4 +1,7 @@
 ##Ödev 1
 ```sql
-SELECT * FROM film
+1.SELECT * FROM film
+
+2.SELECT * FROM film
+WHERE length>60 AND length<75
 ```
