@@ -1,4 +1,4 @@
-# Ödev-1
+# Ödev-3
 1.
 ```sql
 SELECT * FROM country
