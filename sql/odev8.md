@@ -1,4 +1,4 @@
-# Ödev-1
+# Ödev-8
 1.
 ```sql
 CREATE TABLE employee(id INTEGER, name VARCHAR(50), birthday DATE, email VARCHAR(100))
