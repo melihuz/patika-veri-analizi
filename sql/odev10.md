@@ -1,4 +1,4 @@
-# Ödev-2
+# Ödev-10
 1.
 ```sql
 SELECT  city,country.country FROM city
