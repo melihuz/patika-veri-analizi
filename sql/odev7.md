@@ -1,4 +1,4 @@
-# Ödev-1
+# Ödev-7
 1.
 ```sql
 SELECT rating,COUNT(*) FROM film
